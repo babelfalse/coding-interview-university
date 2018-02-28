@@ -91,21 +91,6 @@ If short on time:
         - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
     - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
 
-## Before you Get Started
-
-This list grew over many months, and yes, it kind of got out of hand.
-
-Here are some mistakes I made so you'll have a better experience.
-
-### 1. You Won't Remember it All
-
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-through my notes and making flashcards so I could review.
-
-Read please so you won't make my mistakes:
-
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
-
 ## Prerequisite Knowledge
 
 - [ ] **Learn C**
